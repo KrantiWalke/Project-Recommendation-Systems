@@ -1,7 +1,8 @@
 # Recommendation-Systems
 
 ## Data Description:
-Amazon Reviews data ( data source ) The repository has several datasets. For this case study, we are using the Electronics dataset.
+Amazon Reviews data .
+The repository has several datasets. For this case study, we are using the Electronics dataset.
 
 ## Objective:
 Build a recommendation system to recommend products to customers based on the their previous ratings for other products.
